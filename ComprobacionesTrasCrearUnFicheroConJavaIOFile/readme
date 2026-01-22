@@ -1,0 +1,13 @@
+Este proyecto en Java tiene como objetivo trabajar con la clase File de la API java.io para la creación de directorios y ficheros, así como la comprobación de permisos.
+
+El programa crea dos directorios nuevos dentro de la ruta
+src/main/resources/crearFicheros, y en cada uno de ellos crea un fichero.
+Una vez creados, se comprueba si los ficheros existen y si tienen permisos de lectura, escritura y ejecución, mostrando por consola los mensajes correspondientes.
+
+La aplicación está organizada en:
+
+una clase Main, que inicia la ejecución del programa,
+
+una clase Fachada, que actúa como intermediaria y muestra los mensajes por consola,
+
+y una clase de funcionalidad, que contiene los métodos encargados de crear directorios, ficheros, asignar permisos y comprobarlos.
