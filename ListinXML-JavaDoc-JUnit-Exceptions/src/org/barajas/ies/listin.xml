@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listin>
+    <contactos>
+        <contacto tag="Don Juan">
+            <nombre>Yones El Tawil</nombre>
+            <tlf>123456789</tlf>
+            <prefijo>+34</prefijo>
+        </contacto>
+        <contacto tag="Gavilan">
+            <nombre>Jose Luis Gonzalez</nombre>
+            <tlf>111111111</tlf>
+            <prefijo>+34</prefijo>
+        </contacto>
+    </contactos>
+</listin>
